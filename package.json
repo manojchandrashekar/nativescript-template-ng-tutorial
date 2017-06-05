@@ -4,9 +4,6 @@
   "main": "main.js",
   "description": "Template for starting the NativeScript Getting Started Tutorial",
   "repository": "https://github.com/tjvantoll/nativescript-template-ng-tutorial",
-  "nativescript": {
-    "id": "org.nativescript.tutorial"
-  },
   "dependencies": {
         "nativescript-theme-core": "~1.0.2",
         "nativescript-angular": "~3.0.0",
